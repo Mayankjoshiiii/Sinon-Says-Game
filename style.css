@@ -1,0 +1,47 @@
+body{
+    text-align:center;
+}
+h1{
+    color:darksalmon;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    text-decoration: underline;
+}
+.btn{
+    height:200px;
+    width: 200px;
+    border-radius:  20%;
+    border: 7.5px solid black;
+    margin: 0.5rem;
+    
+
+}
+.btn-container{
+    display:flex;
+    justify-content: center;
+
+}
+
+.yellow{
+    background-color: #f99b45;
+}
+.green{
+    background-color: #63aac0;
+}
+.red{
+    background-color: #d95980;
+}
+.blue{
+    background-color: rgb(114, 114, 240);
+}
+.gameflash{
+    background-color: white;
+}
+.userflash{
+    background-color:aquamarine
+}
+
+h3{
+    position:fixed;
+    bottom:0;
+    right:0;
+}
